@@ -3,7 +3,8 @@
 ###  Creating a Product preview card - Frontendmentor challenge
 
 Screenshot:
-('./images/PRODUCT-PREVIEW.png')
+
+![PRODUCT-PREVIEW](https://user-images.githubusercontent.com/97189841/205934049-6a41caa1-4607-471c-8f17-bc790ddf435a.png)
 
 
 #### Built with tecnologies:
